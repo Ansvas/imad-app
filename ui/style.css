@@ -1,6 +1,6 @@
 body {
     font-family: Arial;
-    background-color: green;
+    background-color:gray;
     margin-top: 75px;
 }
 
@@ -12,7 +12,7 @@ body {
     font-size: 200%;
 }
 
-.italic {
+.bold {
     font-weight: bold;
 }
 
