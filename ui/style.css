@@ -1,7 +1,10 @@
 body {
     font-family: Arial;
-    background-color:gray;
+    background-color:green;
     margin-top: 75px;
+}
+.p{
+     color: grey;
 }
 
 .center {
