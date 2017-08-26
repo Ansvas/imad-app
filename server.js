@@ -24,7 +24,7 @@ app.get('/ui/style.css', function (req, res) {
 });
 app.get('/myprofile',function(req,res)
 {
-    res.send('And here is my profile');
+  res.sendFile(path.join(__dirname, 'ui', 'myprofile.html'));
 });
 
 app.get('/ui/madi.png', function (req, res) {
