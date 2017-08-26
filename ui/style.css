@@ -21,6 +21,7 @@ body {
 
 .img-medium {
     height: 100px;
+    content: center;
 }
 .tags{
     font-weight:bold;
