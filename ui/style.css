@@ -19,4 +19,8 @@ body {
 .img-medium {
     height: 100px;
 }
+.tags{
+    font-weight:bold;
+    font-size:200%;
+}
 
