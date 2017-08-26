@@ -3,6 +3,9 @@ body {
     background-color:green;
     margin-top: 75px;
 }
+.center{
+    content: center;
+}
 .p{
      color: grey;
     text-align: center;
